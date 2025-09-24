@@ -3,7 +3,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Mario</p>
-                <img src="[./docs/mario.gif](https://i.pinimg.com/originals/f0/86/bf/f086bf3d490cddd0c739f002fd993d5c.gif)" alt="Mario Kart" width="60" height="60">
+                <img src="https://i.pinimg.com/originals/f0/86/bf/f086bf3d490cddd0c739f002fd993d5c.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
