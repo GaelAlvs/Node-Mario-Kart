@@ -12,7 +12,7 @@
             </td>
              <td style="border: 1px solid black; text-align: center;">
                 <p>Peach</p>
-                <img src="./docs/peach.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://64.media.tumblr.com/832b30d131c68a6fc503bd4993e9d631/tumblr_p0exqxSqOm1rl04amo3_250.gif" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -21,7 +21,7 @@
             </td>
               <td style="border: 1px solid black; text-align: center;">
                 <p>Yoshi</p>
-                <img src="./docs/yoshi.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://i.gifer.com/3vIN.gif" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
@@ -41,7 +41,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Luigi</p>
-                <img src="./docs/luigi.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://64.media.tumblr.com/90e3a4d34ab47ffaa8147e6c312ca8f4/tumblr_mxk56xFcDU1rby4vso1_500.gif" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
