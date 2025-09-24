@@ -32,7 +32,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Bowser</p>
-                <img src="./docs/bowser.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://i.gifer.com/3vIP.gif" alt="Bowser" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 5</p>
@@ -50,7 +50,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Donkey Kong</p>
-                <img src="./docs/dk.gif" alt="Mario Kart" width="60" height="60">
+                <img src="https://giffiles.alphacoders.com/299/2998.gif" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
